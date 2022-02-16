@@ -8,5 +8,8 @@
   },
   "scripts": {
     "build": "echo 'No build required'"
-  }
+  },
+  "files": [
+    "babel.config.js"
+  ]
 }
