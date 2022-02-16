@@ -1,6 +1,6 @@
 {
   "name": "@craigmiller160/babel-config-core-polyfills",
-  "version": "1.0.0-beta",
+  "version": "1.0.0",
   "main": "babel.config.js",
   "author": "craigmiller160",
   "publishConfig": {
